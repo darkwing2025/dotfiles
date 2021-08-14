@@ -49,3 +49,6 @@
 
 [pull]
   rebase = false
+[user]
+	email = darkwing2025@gmail.com
+	name = Derrick Wong
